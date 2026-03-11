@@ -69,6 +69,10 @@ It demonstrates **full-stack development skills**, including frontend interface 
    ```bash
    git clone https://github.com/KhushpreetKaur10/OnlineMovieTicketBooking.git
 2.Set up a local server (XAMPP, WAMP, or similar) and place the project in the htdocs folder.
+
 3.Import the moviebook.sql file into MySQL to create the database and tables.
+
 4.Open index.php in your browser via the local server.
+
 5.Register a new account and start booking movies!
+
