@@ -1,4 +1,4 @@
-# Online Movie Ticket Booking System
+<img width="1603" height="902" alt="image" src="https://github.com/user-attachments/assets/7b8da4d0-5655-4895-802c-44ed5b54a89e" /># Online Movie Ticket Booking System
 
 ## Author
 **Khushpreet Kaur** – [GitHub Profile](https://github.com/KhushpreetKaur10)
@@ -60,6 +60,19 @@ It demonstrates **full-stack development skills**, including frontend interface 
 
 ---
 
+## Screenshots
+
+**Homepage**  
+![Homepage](screenshots/home.png)
+
+**Seat Booking Page**  
+![Seat Booking](screenshots/seatbooking.png)
+
+**Create account**  
+![Ticket](screenshots/register.png)
+
+**Browse movies**  
+![Ticket](screenshots/movie.png)
 
 ---
 
