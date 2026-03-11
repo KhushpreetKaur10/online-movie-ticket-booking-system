@@ -1,4 +1,4 @@
-<img width="1603" height="902" alt="image" src="https://github.com/user-attachments/assets/7b8da4d0-5655-4895-802c-44ed5b54a89e" /># Online Movie Ticket Booking System
+# Online Movie Ticket Booking System
 
 ## Author
 **Khushpreet Kaur** – [GitHub Profile](https://github.com/KhushpreetKaur10)
