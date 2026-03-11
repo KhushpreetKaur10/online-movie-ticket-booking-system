@@ -1,6 +1,6 @@
 # 🎬 Online Movie Ticket Booking System
 
-A full-stack web application that allows users to browse movies, select seats, and book tickets online developed using Core PHP,HTML,JavaScript,CSS,Bootstrap.
+A full-stack web application that allows users to browse movies, select seats, and book tickets online.
 
 ## 🚀 Features
 - User Registration & Login
@@ -11,7 +11,7 @@ A full-stack web application that allows users to browse movies, select seats, a
 - Admin Panel
 
 ## 🛠 Tech Stack
-Frontend: HTML, CSS, JavaScript  
+Frontend: HTML, CSS, JavaScript, Bootstrap
 Backend: PHP  
 Database: MySQL  
 Server: XAMPP
